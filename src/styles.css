@@ -1,0 +1,12 @@
+:root {
+  /*COLORS FOR LIGHT THEME*/
+  --blue: #4b72ff;
+  --orange: #f3a26c;
+  --yellow: #f8b551;
+  --coral: #fffbf4;
+  /*COLORS FOR DARK THEME*/
+  --purple: #3a2d80;
+  --purpleLight: #6957e7;
+  --purpleLighter: #a763f6;
+  --white: #ffffff;
+}
